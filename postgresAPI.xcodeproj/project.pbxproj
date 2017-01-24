@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2545BE891E36FF1A003752E9 /* Attendee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2545BE881E36FF1A003752E9 /* Attendee.swift */; };
+		2545BE8B1E36FF24003752E9 /* AttendeeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2545BE8A1E36FF24003752E9 /* AttendeeController.swift */; };
 		OBJ_1416 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* Array.swift */; };
 		OBJ_1417 /* Bool+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_10 /* Bool+String.swift */; };
 		OBJ_1418 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_11 /* Box.swift */; };
@@ -5000,6 +5002,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2545BE881E36FF1A003752E9 /* Attendee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Attendee.swift; sourceTree = "<group>"; };
+		2545BE8A1E36FF24003752E9 /* AttendeeController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendeeController.swift; sourceTree = "<group>"; };
 		OBJ_10 /* Bool+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bool+String.swift"; sourceTree = "<group>"; };
 		OBJ_100 /* bio_lib.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = bio_lib.c; sourceTree = "<group>"; };
 		OBJ_1000 /* FrameSerializer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameSerializer.swift; sourceTree = "<group>"; };
@@ -7913,6 +7917,7 @@
 		OBJ_1359 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				2545BE8A1E36FF24003752E9 /* AttendeeController.swift */,
 				OBJ_1360 /* PostController.swift */,
 			);
 			path = Controllers;
@@ -7921,6 +7926,7 @@
 		OBJ_1361 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				2545BE881E36FF1A003752E9 /* Attendee.swift */,
 				OBJ_1362 /* Post.swift */,
 			);
 			path = Models;
@@ -12224,6 +12230,8 @@
 				OBJ_3673 /* main.swift in Sources */,
 				OBJ_3674 /* PostController.swift in Sources */,
 				OBJ_3675 /* Post.swift in Sources */,
+				2545BE8B1E36FF24003752E9 /* AttendeeController.swift in Sources */,
+				2545BE891E36FF1A003752E9 /* Attendee.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

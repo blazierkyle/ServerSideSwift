@@ -42,6 +42,13 @@ drop.get("squareMe") { request in
     
 }
 
+// MARK: - Connecting to a PostgreSQL DB with attendees, following a tutorial
+drop.preparations.append(Attendee.self)
+drop.group("api") { api in
+    api.resource("attendees", AttendeesController())
+}
+
+
 drop.resource("posts", PostController())
 
 drop.run()
