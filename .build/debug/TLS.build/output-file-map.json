@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/master.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Certificates.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Certificates.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Certificates~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Certificates.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Config.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Config.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Config.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Config~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Config.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Context.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Context.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Context.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Context.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Error.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Error.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Error.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Error.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Mode.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Mode.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Mode~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Mode.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Socket.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Socket.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Socket.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Utilities.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Utilities.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/TLS.build/Utilities.swiftdeps"
+  }
+}

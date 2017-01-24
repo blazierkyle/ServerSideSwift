@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "9fe527cc2d623199b6bf5801a6d16967"
+build_time: [538197171, 596293000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Polymorphic-1.0.1/Sources/Polymorphic.swift": [538197125, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Polymorphic-1.0.1/Sources/String+Polymorphic.swift": [538197125, 0]

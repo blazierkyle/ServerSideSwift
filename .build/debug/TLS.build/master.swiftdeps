@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "8d915114c9c612c77f72793de720e4e3"
+build_time: [538197187, 612069000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": [538197129, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Config.swift": [538197129, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Context.swift": [538197129, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Error.swift": [538197129, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": [538197129, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": [538197129, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": [538197129, 0]

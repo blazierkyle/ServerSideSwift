@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "2f53beab2cb244388e65e0e8c93e48fa"
+build_time: [538197191, 465422000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSON+Bytes.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSON+Equatable.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSON+Node.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSON+Parse.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSON+Serialize.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSON.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/JSONRepresentable.swift": [538197132, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/JSON-1.0.3/Sources/JSON/Sequence+Convertible.swift": [538197132, 0]

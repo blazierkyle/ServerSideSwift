@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d33e5c0a334a618b8e894d5d858cceea"
+build_time: [538197226, 125951000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Vapor-1.3.11/Sources/Sessions/CacheSessions.swift": [538197114, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Vapor-1.3.11/Sources/Sessions/MemorySessions.swift": [538197114, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Vapor-1.3.11/Sources/Sessions/Request+Session.swift": [538197114, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Vapor-1.3.11/Sources/Sessions/Session.swift": [538197114, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Vapor-1.3.11/Sources/Sessions/SessionsMiddleware.swift": [538197114, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Vapor-1.3.11/Sources/Sessions/SessionsProtocol.swift": [538197114, 0]

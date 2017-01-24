@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d30eb60b7624580a78661f76ceabc54b"
+build_time: [538197194, 401391000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/TurnstileError.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Subject.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Core/Turnstile.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/APIKey.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Credentials.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/CredentialsError.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/Token.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Credentials/UsernamePassword.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Account.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/MemoryRealm.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/Realm/Realm.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/MemorySessionManager.swift": [538197134, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Turnstile-1.0.3/Sources/Turnstile/SessionManager/SessionManager.swift": [538197134, 0]

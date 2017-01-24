@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "79cba0733c5835961ca06fc4877a62f1"
+build_time: [538197195, 69191000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Crypto-1.0.1/Sources/Cipher/Cipher.swift": [538197116, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Crypto-1.0.1/Sources/Cipher/Method.swift": [538197116, 0]

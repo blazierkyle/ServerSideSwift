@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d28348eaeaf7ef13cfa73cc9b60e60d6"
+build_time: [538197245, 65663000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Sources/App/main.swift": [538196993, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Sources/App/Controllers/PostController.swift": [538196993, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Sources/App/Models/Post.swift": [538196993, 0]

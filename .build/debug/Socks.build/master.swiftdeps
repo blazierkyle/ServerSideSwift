@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "4eaa0cbcd36e5017c9f75efc2e269d8a"
+build_time: [538197176, 308887000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/Socks/Socks.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/Socks/SynchronousTCPServer.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/Socks/SynchronousUDPServer.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/Socks/TCPClient.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/Socks/UDPClient.swift": [538197130, 0]

@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "7df6b3f1031384f91820d98314b34d8d"
+build_time: [538197171, 653549000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Address+C.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Address.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Bytes.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Conversions.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Error.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/FDSet.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/InternetSocket.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Pipe.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Select.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Socket.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/SocketOptions+Deprecated.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/SocketOptions.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/TCPSocket.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/Types.swift": [538197130, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Socks-1.2.2/Sources/SocksCore/UDPSocket.swift": [538197130, 0]

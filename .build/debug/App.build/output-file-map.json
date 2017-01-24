@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Sources/App/main.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/main.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/PostController.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/Post.d",
+    "object": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/.build/debug/App.build/Post.swiftdeps"
+  }
+}

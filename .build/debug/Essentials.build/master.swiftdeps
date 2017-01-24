@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0412f8f7563d57dc75a25231decf906c"
+build_time: [538197187, 612069000]
+inputs:
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [538197116, 0]
+  "/Users/KyleBlazier/Documents/Development/Xcode/ServerSide/Postgres/postgresAPI/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [538197116, 0]
